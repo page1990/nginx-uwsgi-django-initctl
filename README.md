@@ -83,7 +83,7 @@ exec /usr/local/bin/uwsgi --emperor /etc/uwsgi/vassals/ --logto /var/log/cmdb.lo
 
 运行命令```initctl stop uwsgi```
 
-usage:
+**usage:**
 ```
 initctl start | stop | reload | restart uwsgi
 ```
